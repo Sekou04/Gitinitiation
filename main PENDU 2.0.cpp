@@ -1,5 +1,5 @@
 //SEKOU DRAME BTS SIO SLAM 2021
-
+//SALUT TOI MOI c'est Tchoupi 
 #include <stdio.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
